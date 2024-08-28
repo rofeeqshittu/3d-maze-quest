@@ -1,4 +1,4 @@
-# 3d-maze-quest
+# 3D Maze Quest
 
 **Tagline:** Challenge awaits. Victory calls.
 
@@ -20,7 +20,7 @@ To get started with **3d-maze-quest**, clone the repository and follow the instr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/3d-maze-quest.git
+    git clone https://github.com/rofeeqshittu/3d-maze-quest.git
     ```
 
 2. Navigate to the project directory:
