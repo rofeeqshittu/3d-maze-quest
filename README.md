@@ -65,6 +65,9 @@ The project’s assets, including images and textures, are stored in the [`image
 
 Contributions to the project are welcome! Please check the `CONTRIBUTING.md` file for guidelines on how to get involved.
 
+## Related Projects
+- old 3D wolfein game
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details..
