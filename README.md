@@ -37,7 +37,7 @@ To compile and run the game, use the following command in your terminal:
 ```bash
 make
 ./3d-maze-quest
-
+```
 
 ## Project Structure
 
