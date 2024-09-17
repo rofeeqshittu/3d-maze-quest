@@ -30,14 +30,36 @@ To get started with **3d-maze-quest**, clone the repository and follow the instr
 
 3. Follow the setup instructions in the `README.md` to build and run the game.
 
+## How to Run the Game
 
-## Directories
-`[src]/(/src)` - Contains all source code written in C.
+To compile and run the game, use the following command in your terminal:
 
-`[inc](/inc)` - Contains all header files.
+```bash
+make
+./3d-maze-quest
 
-`[images](/images)` - Contains all images used.
 
+## Project Structure
+
+### Source Code
+
+The core game logic is written in C and can be found in the [`src`](./src) folder:
+- [`main.c`](./src/main.c): Handles SDL initialization, window creation, and the main game loop.
+- [`player.c`](./src/player.c): Manages player movement and interactions.
+- [`raycasting.c`](./src/raycasting.c): Implements the raycasting algorithm.
+- [`world.c`](./src/world.c): Handles the game's world and map structure.
+
+### Header Files
+
+The corresponding header files for the source code are located in the [`inc`](./inc) folder:
+- [`player.h`](./inc/player.h)
+- [`raycasting.h`](./inc/raycasting.h)
+- [`world.h`](./inc/world.h)
+
+### Assets
+
+The project’s assets, including images and textures, are stored in the [`images`](./images) folder. You can view them in:
+- [`images/`](./images): Contains all in-game assets.
 
 ## Contributing
 
