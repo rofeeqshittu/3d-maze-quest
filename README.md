@@ -12,7 +12,8 @@
 - **Interactive Gameplay:** Navigate through the maze, avoiding obstacles and solving puzzles to find the exit.
 - **Optimized Performance:** Designed with performance in mind, leveraging SDL2 for efficient graphics and input handling.
 
-**Deployed Landing page:** https://3d-maze-quest.vercel.app
+**Deployed Landing page:** <a href="https://3d-maze-quest.vercel.app/" target="_blank">https://3d-maze-quest.vercel.app/</a>
+
 
 ## Getting Started
 
