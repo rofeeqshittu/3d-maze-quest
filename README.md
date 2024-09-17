@@ -12,6 +12,8 @@
 - **Interactive Gameplay:** Navigate through the maze, avoiding obstacles and solving puzzles to find the exit.
 - **Optimized Performance:** Designed with performance in mind, leveraging SDL2 for efficient graphics and input handling.
 
+**Deployed Landing page:** (https://3d-maze-quest.vercel.app)[https://3d-maze-quest.vercel.app/]
+
 ## Getting Started
 
 To get started with **3d-maze-quest**, clone the repository and follow the instructions in the `README.md` file to set up your development environment. Ensure you have SDL2 and the necessary dependencies installed on your system.
