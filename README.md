@@ -32,11 +32,11 @@ To get started with **3d-maze-quest**, clone the repository and follow the instr
 
 
 ## Directories
-`src` - Contains all source code written in C.
+`[src]/(/src)` - Contains all source code written in C.
 
-`inc` - Contains all header files.
+`[inc](/inc)` - Contains all header files.
 
-`images` - Contains all images used.
+`[images](/images)` - Contains all images used.
 
 
 ## Contributing
