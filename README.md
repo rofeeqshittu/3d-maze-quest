@@ -28,7 +28,7 @@ To get started with **3d-maze-quest**, clone the repository and follow the instr
     cd 3d-maze-quest
     ```
 
-3. Follow the setup instructions in the `README.md` to build and run the game.
+3. Follow the setup instructions in the section below to build and run the game.
 
 ## How to Run the Game
 
