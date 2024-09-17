@@ -30,6 +30,15 @@ To get started with **3d-maze-quest**, clone the repository and follow the instr
 
 3. Follow the setup instructions in the `README.md` to build and run the game.
 
+
+## Directories
+`src` - Contains all source code written in C.
+
+`inc` - Contains all header files.
+
+`images` - Contains all images used.
+
+
 ## Contributing
 
 Contributions to the project are welcome! Please check the `CONTRIBUTING.md` file for guidelines on how to get involved.
